@@ -71,7 +71,7 @@ public class Main {
            Integer[] arrayData = new Integer[3];
 
            arrayData[0] = cal.get(Calendar.YEAR);
-           arrayData[1] = cal.get(Calendar.MONTH);
+           arrayData[1] = cal.get(Calendar.MONTH ) + 1;
            arrayData[2] = cal.get(Calendar.DATE);
 
 
