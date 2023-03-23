@@ -24,6 +24,3 @@ class Car{
 let car_inf = new Car('〇〇', '△△');
 car_inf.getNumGas();
 
-
-
-
